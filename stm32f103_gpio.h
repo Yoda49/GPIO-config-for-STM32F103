@@ -1,5 +1,5 @@
-#ifndef _STM32H743_GPIO_H_
-#define _STM32H743_GPIO_H_
+#ifndef _STM32F103_GPIO_H_
+#define _STM32F103_GPIO_H_
 
 #define GPIO_PORT_A 0
 #define GPIO_PORT_B 1
